@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: 35a55724453075a4183a3120fa362ee3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7196802934110152878
+    second: HumanRun_0
+  - first:
+      213: -1207777342584564428
+    second: HumanRun_1
+  - first:
+      213: -857413628599555635
+    second: HumanRun_2
+  - first:
+      213: -8943829917679498162
+    second: HumanRun_3
+  - first:
+      213: -2845362109057839443
+    second: HumanRun_4
+  - first:
+      213: -4878336480812004101
+    second: HumanRun_5
+  - first:
+      213: -3213639232592591210
+    second: HumanRun_6
+  - first:
+      213: -6673270343872404450
+    second: HumanRun_7
+  - first:
+      213: 1462597135933052006
+    second: HumanRun_8
+  - first:
+      213: -1379816191500577735
+    second: HumanRun_9
+  - first:
+      213: 231255932964454631
+    second: HumanRun_10
+  - first:
+      213: -8493909454914443711
+    second: HumanRun_11
+  - first:
+      213: 4591150230049217759
+    second: HumanRun_12
+  - first:
+      213: 655396288391837678
+    second: HumanRun_13
+  - first:
+      213: 4496276055188813262
+    second: HumanRun_14
+  - first:
+      213: -4027205001383109531
+    second: HumanRun_15
+  - first:
+      213: 3114818494310018327
+    second: HumanRun_16
+  - first:
+      213: -1190646600996536969
+    second: HumanRun_17
+  - first:
+      213: 7561793110026315350
+    second: HumanRun_18
+  - first:
+      213: -8717997576701578014
+    second: HumanRun_19
+  - first:
+      213: 2745774766666881544
+    second: HumanRun_20
+  - first:
+      213: -6352674534544080198
+    second: HumanRun_21
+  - first:
+      213: 6017804794266226229
+    second: HumanRun_22
+  - first:
+      213: -6398872243794887888
+    second: HumanRun_23
+  - first:
+      213: -7578746502207572345
+    second: HumanRun_24
+  - first:
+      213: -2041804972817974815
+    second: HumanRun_25
+  - first:
+      213: -3493178224786262187
+    second: HumanRun_26
+  - first:
+      213: -8875943441524154125
+    second: HumanRun_27
+  - first:
+      213: 6184856903948253219
+    second: HumanRun_28
+  - first:
+      213: -7289694438890132849
+    second: HumanRun_29
+  - first:
+      213: -3322187682659048411
+    second: HumanRun_30
+  - first:
+      213: -1653769193890276070
+    second: HumanRun_31
+  - first:
+      213: 3310159174478115476
+    second: HumanRun_32
+  - first:
+      213: -7799486190079324456
+    second: HumanRun_33
+  - first:
+      213: -7947842350218912182
+    second: HumanRun_34
+  - first:
+      213: 286678742541031581
+    second: HumanRun_35
+  - first:
+      213: -2595776941577209361
+    second: HumanRun_36
+  - first:
+      213: -9077032545015769499
+    second: HumanRun_37
+  - first:
+      213: 2021124245703268123
+    second: HumanRun_38
+  - first:
+      213: 7898104660100629439
+    second: HumanRun_39
+  - first:
+      213: -3057850598223448092
+    second: HumanRun_40
+  - first:
+      213: -1784774673218782963
+    second: HumanRun_41
+  - first:
+      213: 9086544784693404230
+    second: HumanRun_42
+  - first:
+      213: 5619137642836728637
+    second: HumanRun_43
+  - first:
+      213: 1438805572515630800
+    second: HumanRun_44
+  - first:
+      213: 1286955561239398630
+    second: HumanRun_45
+  - first:
+      213: -6258581002737828815
+    second: HumanRun_46
+  - first:
+      213: 8307155280071324668
+    second: HumanRun_47
+  - first:
+      213: 6930281639943083144
+    second: HumanRun_48
+  - first:
+      213: 3028857919200803056
+    second: HumanRun_49
+  - first:
+      213: 8917529358023041637
+    second: HumanRun_50
+  - first:
+      213: -1168544488078571239
+    second: HumanRun_51
+  - first:
+      213: -8918238863232122769
+    second: HumanRun_52
+  - first:
+      213: 2763447051351999835
+    second: HumanRun_53
+  - first:
+      213: 713043873819293581
+    second: HumanRun_54
+  - first:
+      213: -6397194011242322146
+    second: HumanRun_55
+  - first:
+      213: -5219134180774647059
+    second: HumanRun_56
+  - first:
+      213: 7580789200503507772
+    second: HumanRun_57
+  - first:
+      213: -1039090983325982696
+    second: HumanRun_58
+  - first:
+      213: -514558003091289667
+    second: HumanRun_59
+  - first:
+      213: 191251065139021241
+    second: HumanRun_60
+  - first:
+      213: -3271245293573686037
+    second: HumanRun_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HumanRun_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 995
+        width: 146
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8ef16632e20e360800000000000000
+      internalID: 7196802934110152878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 995
+        width: 147
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4355b7fe7ec1d3fe0800000000000000
+      internalID: -1207777342584564428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 995
+        width: 147
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9aeb9f8dad914f0800000000000000
+      internalID: -857413628599555635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_3
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 995
+        width: 147
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cc339831221e380800000000000000
+      internalID: -8943829917679498162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_4
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 995
+        width: 147
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae4048bc3e3388d0800000000000000
+      internalID: -2845362109057839443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_5
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 995
+        width: 147
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc0f5631daac4cb0800000000000000
+      internalID: -4878336480812004101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_6
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 996
+        width: 147
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6964f01052cd663d0800000000000000
+      internalID: -3213639232592591210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_7
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 996
+        width: 147
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14265f8af7c363a0800000000000000
+      internalID: -6673270343872404450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_8
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 996
+        width: 147
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6641bc098503c4410800000000000000
+      internalID: 1462597135933052006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_9
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 996
+        width: 147
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93496420c78e9dce0800000000000000
+      internalID: -1379816191500577735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_10
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 996
+        width: 147
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e04c88bb06953300800000000000000
+      internalID: 231255932964454631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_11
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 996
+        width: 147
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1462e797a529f1a80800000000000000
+      internalID: -8493909454914443711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_12
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 996
+        width: 147
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc598c2fca07bf30800000000000000
+      internalID: 4591150230049217759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_13
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 995
+        width: 147
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee774bca37f681900800000000000000
+      internalID: 655396288391837678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_14
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 995
+        width: 147
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5bf99ff3bf56e30800000000000000
+      internalID: 4496276055188813262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_15
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 995
+        width: 146
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c12e6636e7c18c0800000000000000
+      internalID: -4027205001383109531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 663
+        width: 145
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d6a25eaee0a3b20800000000000000
+      internalID: 3114818494310018327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 663
+        width: 146
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d33968939f97fe0800000000000000
+      internalID: -1190646600996536969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_18
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 664
+        width: 146
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6566d1cf4c2e0f860800000000000000
+      internalID: 7561793110026315350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_19
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 664
+        width: 146
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e47cf7d463730780800000000000000
+      internalID: -8717997576701578014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_20
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 664
+        width: 146
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a19604a93fa1620800000000000000
+      internalID: 2745774766666881544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_21
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 664
+        width: 146
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab284d23b24c6d7a0800000000000000
+      internalID: -6352674534544080198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_22
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 665
+        width: 146
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e81e1a399838350800000000000000
+      internalID: 6017804794266226229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_23
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 665
+        width: 146
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bbf71d893a237a0800000000000000
+      internalID: -6398872243794887888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_24
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 665
+        width: 146
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786fe2dc532e2d690800000000000000
+      internalID: -7578746502207572345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_25
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 665
+        width: 146
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9fe86f13d0aa3e0800000000000000
+      internalID: -2041804972817974815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_26
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 666
+        width: 146
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5573c7689ecb58fc0800000000000000
+      internalID: -3493178224786262187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_27
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 666
+        width: 146
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0ae79777052d480800000000000000
+      internalID: -8875943441524154125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_28
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 666
+        width: 146
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328357ad59605d550800000000000000
+      internalID: 6184856903948253219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_29
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 666
+        width: 146
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a20d0c78dc5da90800000000000000
+      internalID: -7289694438890132849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_30
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 667
+        width: 146
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524ede187e735e1d0800000000000000
+      internalID: -3322187682659048411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_31
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 667
+        width: 146
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d9fa12ea1ac09e0800000000000000
+      internalID: -1653769193890276070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 145
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492b4c03b3c00fd20800000000000000
+      internalID: 3310159174478115476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_33
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 335
+        width: 146
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dec1c132a8a2c390800000000000000
+      internalID: -7799486190079324456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_34
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 335
+        width: 146
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e5560fd7793b190800000000000000
+      internalID: -7947842350218912182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_35
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 335
+        width: 146
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9850d52ccc7af300800000000000000
+      internalID: 286678742541031581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_36
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 335
+        width: 146
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9f329ef92f9fbd0800000000000000
+      internalID: -2595776941577209361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_37
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 335
+        width: 146
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566dca31ef6e70280800000000000000
+      internalID: -9077032545015769499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_38
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 334
+        width: 146
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1792180bc97c0c10800000000000000
+      internalID: 2021124245703268123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_39
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 334
+        width: 146
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3c728a754bb9d60800000000000000
+      internalID: 7898104660100629439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_40
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 334
+        width: 146
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7fca405155095d0800000000000000
+      internalID: -3057850598223448092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_41
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 334
+        width: 146
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d093eae04e43b37e0800000000000000
+      internalID: -1784774673218782963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_42
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 334
+        width: 146
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642245fc654e91e70800000000000000
+      internalID: 9086544784693404230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_43
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 334
+        width: 146
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b1f492aef2bfd40800000000000000
+      internalID: 5619137642836728637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_44
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 333
+        width: 146
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de85aa8b0aa7f310800000000000000
+      internalID: 1438805572515630800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_45
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 333
+        width: 146
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8436da34f2cd110800000000000000
+      internalID: 1286955561239398630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_46
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 333
+        width: 146
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cbdc5ccbd0529a0800000000000000
+      internalID: -6258581002737828815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_47
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 333
+        width: 146
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf379aac6b1f84370800000000000000
+      internalID: 8307155280071324668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 145
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884183eee6e4d2060800000000000000
+      internalID: 6930281639943083144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_49
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1
+        width: 147
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8b71dda3aa80a20800000000000000
+      internalID: 3028857919200803056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_50
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1
+        width: 147
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562a41b34bd61cb70800000000000000
+      internalID: 8917529358023041637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_51
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 147
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91906d3bafe78cfe0800000000000000
+      internalID: -1168544488078571239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_52
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 0
+        width: 147
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6047f6310d0c3480800000000000000
+      internalID: -8918238863232122769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_53
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 0
+        width: 147
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55cf6ba37cb95620800000000000000
+      internalID: 2763447051351999835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_54
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 0
+        width: 147
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87744810ad35e900800000000000000
+      internalID: 713043873819293581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_55
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 0
+        width: 147
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1725a8c0f99837a0800000000000000
+      internalID: -6397194011242322146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_56
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 0
+        width: 147
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deae3df5d19e197b0800000000000000
+      internalID: -5219134180774647059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_57
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 0
+        width: 147
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b0125fc9f543960800000000000000
+      internalID: 7580789200503507772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_58
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 0
+        width: 147
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8102b8981486491f0800000000000000
+      internalID: -1039090983325982696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_59
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 0
+        width: 147
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9c861f83cebd8f0800000000000000
+      internalID: -514558003091289667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_60
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 0
+        width: 147
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5c68894d577a200800000000000000
+      internalID: 191251065139021241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanRun_61
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 0
+        width: 147
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec3f5fbcb33a92d0800000000000000
+      internalID: -3271245293573686037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HumanRun_0: 7196802934110152878
+      HumanRun_1: -1207777342584564428
+      HumanRun_10: 231255932964454631
+      HumanRun_11: -8493909454914443711
+      HumanRun_12: 4591150230049217759
+      HumanRun_13: 655396288391837678
+      HumanRun_14: 4496276055188813262
+      HumanRun_15: -4027205001383109531
+      HumanRun_16: 3114818494310018327
+      HumanRun_17: -1190646600996536969
+      HumanRun_18: 7561793110026315350
+      HumanRun_19: -8717997576701578014
+      HumanRun_2: -857413628599555635
+      HumanRun_20: 2745774766666881544
+      HumanRun_21: -6352674534544080198
+      HumanRun_22: 6017804794266226229
+      HumanRun_23: -6398872243794887888
+      HumanRun_24: -7578746502207572345
+      HumanRun_25: -2041804972817974815
+      HumanRun_26: -3493178224786262187
+      HumanRun_27: -8875943441524154125
+      HumanRun_28: 6184856903948253219
+      HumanRun_29: -7289694438890132849
+      HumanRun_3: -8943829917679498162
+      HumanRun_30: -3322187682659048411
+      HumanRun_31: -1653769193890276070
+      HumanRun_32: 3310159174478115476
+      HumanRun_33: -7799486190079324456
+      HumanRun_34: -7947842350218912182
+      HumanRun_35: 286678742541031581
+      HumanRun_36: -2595776941577209361
+      HumanRun_37: -9077032545015769499
+      HumanRun_38: 2021124245703268123
+      HumanRun_39: 7898104660100629439
+      HumanRun_4: -2845362109057839443
+      HumanRun_40: -3057850598223448092
+      HumanRun_41: -1784774673218782963
+      HumanRun_42: 9086544784693404230
+      HumanRun_43: 5619137642836728637
+      HumanRun_44: 1438805572515630800
+      HumanRun_45: 1286955561239398630
+      HumanRun_46: -6258581002737828815
+      HumanRun_47: 8307155280071324668
+      HumanRun_48: 6930281639943083144
+      HumanRun_49: 3028857919200803056
+      HumanRun_5: -4878336480812004101
+      HumanRun_50: 8917529358023041637
+      HumanRun_51: -1168544488078571239
+      HumanRun_52: -8918238863232122769
+      HumanRun_53: 2763447051351999835
+      HumanRun_54: 713043873819293581
+      HumanRun_55: -6397194011242322146
+      HumanRun_56: -5219134180774647059
+      HumanRun_57: 7580789200503507772
+      HumanRun_58: -1039090983325982696
+      HumanRun_59: -514558003091289667
+      HumanRun_6: -3213639232592591210
+      HumanRun_60: 191251065139021241
+      HumanRun_61: -3271245293573686037
+      HumanRun_7: -6673270343872404450
+      HumanRun_8: 1462597135933052006
+      HumanRun_9: -1379816191500577735
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

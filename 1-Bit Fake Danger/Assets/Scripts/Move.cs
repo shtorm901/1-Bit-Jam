@@ -4,6 +4,7 @@ using UnityEngine.Rendering;
 public class Move : MonoBehaviour
 {
     Rigidbody2D rb;
+    Animator anim;
 
     private float MoveX;
 
@@ -17,10 +18,17 @@ public class Move : MonoBehaviour
     public void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
     }
 
     public void Update()
     {
+        if(isGround == false)
+        {
+            anim.SetBool("isRun", false);
+            anim.SetBool("isJump", false);
+        }
+
         Jump();
 
         if(!FaceRight && MoveX < 0)
@@ -43,13 +51,27 @@ public class Move : MonoBehaviour
         MoveX = Input.GetAxisRaw("Horizontal");
 
         rb.linearVelocity = new Vector2(MoveX * Speed, rb.linearVelocity.y);
+
+        if(MoveX != 0)
+        {
+            anim.SetBool("isRun", true);
+        }
+        else
+        {
+            anim.SetBool("isRun", false);
+        }
     }
 
     public void Jump()
     {
         if(Input.GetKeyDown(KeyCode.Space) && isGround)
         {
+            anim.SetBool("isJump", true);
             rb.AddForce(Vector2.up * JumpForce);
+        }
+        else
+        {
+            anim.SetBool("isJump", false);
         }
     }
 
